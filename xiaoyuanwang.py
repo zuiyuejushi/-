@@ -2,7 +2,7 @@ import urllib
 import urllib.request
 conf = {
 'account': '1711013037@telecom',   #校园网账号
-'passwd': '804547477',    #校园网秘密
+'passwd': '----',    #校园网秘密
 'url': 'http://210.29.79.194/a79.htm'
 }
 form = {
